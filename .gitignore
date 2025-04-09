@@ -291,8 +291,6 @@ FodyWeavers.xsd
 
 *.sln.iml
 
-Properties
-packages
 *bin
 *vs
 
