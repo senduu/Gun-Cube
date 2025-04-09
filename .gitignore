@@ -294,15 +294,6 @@ FodyWeavers.xsd
 *bin
 *vs
 
-*TempPE
-.NETFramework,Version=v4.8.AssemblyAttributes
-DesignTimeResolveAssemblyReferencesInput.cache
-JumpTester.csproj.AssemblyReference.cache
-JumpTester.csproj.CoreCompileInputs.cache
-JumpTester.csproj.FileListAbsolute
-JumpTester.csproj.Up2Date
-JumpTester.pdb
-
 packages.config
 JumpTester.sln
 JumpTester.csproj
