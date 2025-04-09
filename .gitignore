@@ -291,8 +291,8 @@ FodyWeavers.xsd
 
 *.sln.iml
 
-*Properties
-*packages
+Properties
+packages
 *bin
 *vs
 
@@ -305,4 +305,10 @@ JumpTester.csproj.FileListAbsolute
 JumpTester.csproj.Up2Date
 JumpTester.pdb
 
-obj
+packages.config
+JumpTester.sln
+JumpTester.csproj
+EventHandlers
+
+AssemblyInfo
+*ExMod.Exiled.9.5.1
