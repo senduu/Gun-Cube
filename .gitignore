@@ -301,3 +301,8 @@ EventHandlers
 
 AssemblyInfo
 *ExMod.Exiled.9.5.1
+
+bin/
+obj/
+*.dll
+packages/
